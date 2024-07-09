@@ -1,0 +1,15 @@
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\bin\Debug\net6.0\Funcoes_Sintaxe.exe
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\bin\Debug\net6.0\Funcoes_Sintaxe.deps.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\bin\Debug\net6.0\Funcoes_Sintaxe.runtimeconfig.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\bin\Debug\net6.0\Funcoes_Sintaxe.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\bin\Debug\net6.0\Funcoes_Sintaxe.pdb
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.AssemblyInfoInputs.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.AssemblyInfo.cs
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\obj\Debug\net6.0\refint\Funcoes_Sintaxe.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.pdb
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.genruntimeconfig.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\obj\Debug\net6.0\ref\Funcoes_Sintaxe.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\Funcoes_Sintaxe\obj\Debug\net6.0\Funcoes_Sintaxe.sourcelink.json

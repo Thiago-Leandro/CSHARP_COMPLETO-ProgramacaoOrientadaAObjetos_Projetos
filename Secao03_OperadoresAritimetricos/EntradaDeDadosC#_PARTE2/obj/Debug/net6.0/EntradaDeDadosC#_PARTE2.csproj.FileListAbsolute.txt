@@ -1,0 +1,14 @@
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\bin\Debug\net6.0\EntradaDeDadosC#_PARTE2.exe
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\bin\Debug\net6.0\EntradaDeDadosC#_PARTE2.deps.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\bin\Debug\net6.0\EntradaDeDadosC#_PARTE2.runtimeconfig.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\bin\Debug\net6.0\EntradaDeDadosC#_PARTE2.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\bin\Debug\net6.0\EntradaDeDadosC#_PARTE2.pdb
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\obj\Debug\net6.0\EntradaDeDadosC#_PARTE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\obj\Debug\net6.0\EntradaDeDadosC#_PARTE2.AssemblyInfoInputs.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\obj\Debug\net6.0\EntradaDeDadosC#_PARTE2.AssemblyInfo.cs
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\obj\Debug\net6.0\EntradaDeDadosC#_PARTE2.csproj.CoreCompileInputs.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\obj\Debug\net6.0\EntradaDeDadosC#_PARTE2.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\obj\Debug\net6.0\refint\EntradaDeDadosC#_PARTE2.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\obj\Debug\net6.0\EntradaDeDadosC#_PARTE2.pdb
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\obj\Debug\net6.0\EntradaDeDadosC#_PARTE2.genruntimeconfig.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EntradaDeDadosC#_PARTE2\obj\Debug\net6.0\ref\EntradaDeDadosC#_PARTE2.dll

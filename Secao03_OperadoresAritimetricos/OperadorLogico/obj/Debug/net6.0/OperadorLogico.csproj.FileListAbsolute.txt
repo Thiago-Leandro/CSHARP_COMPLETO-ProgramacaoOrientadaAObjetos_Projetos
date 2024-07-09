@@ -1,0 +1,14 @@
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\bin\Debug\net6.0\OperadorLogico.exe
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\bin\Debug\net6.0\OperadorLogico.deps.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\bin\Debug\net6.0\OperadorLogico.runtimeconfig.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\bin\Debug\net6.0\OperadorLogico.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\bin\Debug\net6.0\OperadorLogico.pdb
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\obj\Debug\net6.0\OperadorLogico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\obj\Debug\net6.0\OperadorLogico.AssemblyInfoInputs.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\obj\Debug\net6.0\OperadorLogico.AssemblyInfo.cs
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\obj\Debug\net6.0\OperadorLogico.csproj.CoreCompileInputs.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\obj\Debug\net6.0\OperadorLogico.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\obj\Debug\net6.0\refint\OperadorLogico.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\obj\Debug\net6.0\OperadorLogico.pdb
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\obj\Debug\net6.0\OperadorLogico.genruntimeconfig.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\OperadorLogico\obj\Debug\net6.0\ref\OperadorLogico.dll

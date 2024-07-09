@@ -1,0 +1,15 @@
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\bin\Debug\net6.0\EstruturaRepetitivaFor.exe
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\bin\Debug\net6.0\EstruturaRepetitivaFor.deps.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\bin\Debug\net6.0\EstruturaRepetitivaFor.runtimeconfig.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\bin\Debug\net6.0\EstruturaRepetitivaFor.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\bin\Debug\net6.0\EstruturaRepetitivaFor.pdb
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\obj\Debug\net6.0\EstruturaRepetitivaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\obj\Debug\net6.0\EstruturaRepetitivaFor.AssemblyInfoInputs.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\obj\Debug\net6.0\EstruturaRepetitivaFor.AssemblyInfo.cs
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\obj\Debug\net6.0\EstruturaRepetitivaFor.csproj.CoreCompileInputs.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\obj\Debug\net6.0\EstruturaRepetitivaFor.sourcelink.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\obj\Debug\net6.0\EstruturaRepetitivaFor.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\obj\Debug\net6.0\refint\EstruturaRepetitivaFor.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\obj\Debug\net6.0\EstruturaRepetitivaFor.pdb
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\obj\Debug\net6.0\EstruturaRepetitivaFor.genruntimeconfig.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao03_OperadoresAritimetricos\EstruturaRepetitivaFor\obj\Debug\net6.0\ref\EstruturaRepetitivaFor.dll
