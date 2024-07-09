@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "38. Resolvendo um problema sem orientação a objetos", "38. Resolvendo um problema sem orientação a objetos\38. Resolvendo um problema sem orientação a objetos.csproj", "{012FDD22-DAD0-47CA-9502-29FEA48724FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39. Criando uma classe com três atributos", "39. Criando uma classe com três atributos\39. Criando uma classe com três atributos.csproj", "{1F2A45F8-2AC3-4EE0-8148-E86B5A016CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41. Criando um metodo reaproveitamento e delegação", "41. Criando um metodo reaproveitamento e delegação\41. Criando um metodo reaproveitamento e delegação.csproj", "{67A7EFD3-8512-4796-B988-A2981AB1CC4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42. Começando a resolver um segundo problema", "42. Começando a resolver um segundo problema\42. Começando a resolver um segundo problema.csproj", "{EB09443A-1D88-4997-90F9-7331102FF028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46. Membros estaticos", "46. Membros estaticos\46. Membros estaticos.csproj", "{F86884FF-A0B9-4C52-A07B-F11E5693A214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012FDD22-DAD0-47CA-9502-29FEA48724FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012FDD22-DAD0-47CA-9502-29FEA48724FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012FDD22-DAD0-47CA-9502-29FEA48724FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012FDD22-DAD0-47CA-9502-29FEA48724FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2A45F8-2AC3-4EE0-8148-E86B5A016CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2A45F8-2AC3-4EE0-8148-E86B5A016CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2A45F8-2AC3-4EE0-8148-E86B5A016CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2A45F8-2AC3-4EE0-8148-E86B5A016CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A7EFD3-8512-4796-B988-A2981AB1CC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A7EFD3-8512-4796-B988-A2981AB1CC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A7EFD3-8512-4796-B988-A2981AB1CC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A7EFD3-8512-4796-B988-A2981AB1CC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB09443A-1D88-4997-90F9-7331102FF028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB09443A-1D88-4997-90F9-7331102FF028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB09443A-1D88-4997-90F9-7331102FF028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB09443A-1D88-4997-90F9-7331102FF028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86884FF-A0B9-4C52-A07B-F11E5693A214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86884FF-A0B9-4C52-A07B-F11E5693A214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86884FF-A0B9-4C52-A07B-F11E5693A214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86884FF-A0B9-4C52-A07B-F11E5693A214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B796DFC-8AC0-47B0-B072-477928CBDA29}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\bin\Debug\net6.0\46. Membros estaticos.exe
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\bin\Debug\net6.0\46. Membros estaticos.deps.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\bin\Debug\net6.0\46. Membros estaticos.runtimeconfig.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\bin\Debug\net6.0\46. Membros estaticos.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\bin\Debug\net6.0\46. Membros estaticos.pdb
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\obj\Debug\net6.0\46. Membros estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\obj\Debug\net6.0\46. Membros estaticos.AssemblyInfoInputs.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\obj\Debug\net6.0\46. Membros estaticos.AssemblyInfo.cs
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\obj\Debug\net6.0\46. Membros estaticos.csproj.CoreCompileInputs.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\obj\Debug\net6.0\46. Membros estaticos.sourcelink.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\obj\Debug\net6.0\46. Membros estaticos.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\obj\Debug\net6.0\refint\46. Membros estaticos.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\obj\Debug\net6.0\46. Membros estaticos.pdb
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\obj\Debug\net6.0\46. Membros estaticos.genruntimeconfig.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao04\46. Membros estaticos\obj\Debug\net6.0\ref\46. Membros estaticos.dll
