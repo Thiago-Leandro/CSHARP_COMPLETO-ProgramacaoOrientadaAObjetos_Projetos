@@ -1,0 +1,15 @@
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\bin\Debug\net6.0\51. Construtores.exe
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\bin\Debug\net6.0\51. Construtores.deps.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\bin\Debug\net6.0\51. Construtores.runtimeconfig.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\bin\Debug\net6.0\51. Construtores.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\bin\Debug\net6.0\51. Construtores.pdb
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\obj\Debug\net6.0\51. Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\obj\Debug\net6.0\51. Construtores.AssemblyInfoInputs.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\obj\Debug\net6.0\51. Construtores.AssemblyInfo.cs
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\obj\Debug\net6.0\51. Construtores.csproj.CoreCompileInputs.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\obj\Debug\net6.0\51. Construtores.sourcelink.json
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\obj\Debug\net6.0\51. Construtores.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\obj\Debug\net6.0\refint\51. Construtores.dll
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\obj\Debug\net6.0\51. Construtores.pdb
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\obj\Debug\net6.0\51. Construtores.genruntimeconfig.cache
+C:\Users\thiago.leandro\Downloads\C# COMPLETO Programação Orientada a Objetos + Projetos\Secao05\51. Construtores\obj\Debug\net6.0\ref\51. Construtores.dll
